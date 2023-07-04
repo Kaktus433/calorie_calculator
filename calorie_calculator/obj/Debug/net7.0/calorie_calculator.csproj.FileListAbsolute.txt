@@ -1,0 +1,15 @@
+/Users/lukakocegov/RiderProjects/calorie_calculator/calorie_calculator/obj/Debug/net7.0/calorie_calculator.csproj.AssemblyReference.cache
+/Users/lukakocegov/RiderProjects/calorie_calculator/calorie_calculator/obj/Debug/net7.0/calorie_calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukakocegov/RiderProjects/calorie_calculator/calorie_calculator/obj/Debug/net7.0/calorie_calculator.AssemblyInfoInputs.cache
+/Users/lukakocegov/RiderProjects/calorie_calculator/calorie_calculator/obj/Debug/net7.0/calorie_calculator.AssemblyInfo.cs
+/Users/lukakocegov/RiderProjects/calorie_calculator/calorie_calculator/obj/Debug/net7.0/calorie_calculator.csproj.CoreCompileInputs.cache
+/Users/lukakocegov/RiderProjects/calorie_calculator/calorie_calculator/bin/Debug/net7.0/calorie_calculator
+/Users/lukakocegov/RiderProjects/calorie_calculator/calorie_calculator/bin/Debug/net7.0/calorie_calculator.deps.json
+/Users/lukakocegov/RiderProjects/calorie_calculator/calorie_calculator/bin/Debug/net7.0/calorie_calculator.runtimeconfig.json
+/Users/lukakocegov/RiderProjects/calorie_calculator/calorie_calculator/bin/Debug/net7.0/calorie_calculator.dll
+/Users/lukakocegov/RiderProjects/calorie_calculator/calorie_calculator/bin/Debug/net7.0/calorie_calculator.pdb
+/Users/lukakocegov/RiderProjects/calorie_calculator/calorie_calculator/obj/Debug/net7.0/calorie_calculator.dll
+/Users/lukakocegov/RiderProjects/calorie_calculator/calorie_calculator/obj/Debug/net7.0/refint/calorie_calculator.dll
+/Users/lukakocegov/RiderProjects/calorie_calculator/calorie_calculator/obj/Debug/net7.0/calorie_calculator.pdb
+/Users/lukakocegov/RiderProjects/calorie_calculator/calorie_calculator/obj/Debug/net7.0/calorie_calculator.genruntimeconfig.cache
+/Users/lukakocegov/RiderProjects/calorie_calculator/calorie_calculator/obj/Debug/net7.0/ref/calorie_calculator.dll
